@@ -1,0 +1,1 @@
+The program creates a threadpool of desired size (say n threads) and attaches a defined set of instructions(a CPU intensive task) to each thread and calculates the time consumed by each thread individually,  and in the end shows the total time taken by the program.
